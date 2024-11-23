@@ -1,0 +1,27 @@
+body{
+  height: 1000px;
+  margin: 0;
+}
+
+p{
+  font-family: Roboto, Arial, sans-serif;
+}
+
+.time-container{
+  position: relative;
+}
+
+.time{
+  font-family: Roboto, Arial, sans-serif;
+  position: absolute;
+  right: 5px;
+  bottom: 13px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  padding-left: 4px;
+}
